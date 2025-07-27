@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Ikram Zerrouki
 
 🎓 Final-year Software Engineering Student @ ESI Algiers  | 📍 Algiers, Algeria | 🧠 Data, Smart Systems & Business Innovation Enthusiast
-🔎 Seeking a 9-month graduation internship (PFE) starting September 2025
 
 ---
 
