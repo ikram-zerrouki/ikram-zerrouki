@@ -1,28 +1,28 @@
-# 👋 Hello! I'm Ikram Zerrouki
+# 👋 Hi there! I'm Ikram Zerrouki
 
 🎓 Final-year Software Engineering Student @ ESI Algiers  | 📍 Algiers, Algeria | 🧠 Data, Smart Systems & Business Innovation Enthusiast
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a software engineering student with a strong interest in **data-driven solutions**, **AI**, and **smart business applications**. I enjoy turning real-world complexity into meaningful systems.
 
 I thrive in environments where innovation meets purpose, especially when it involves:
-- 🧠 Applied Machine Learning & Data Science  
-- 📊 Business Intelligence and ERP (Odoo, Power BI)  
-- 🌐 Full-Stack Development (Python, React, Kotlin)  
-- 🧾 Automation of business processes  
+-  Applied Machine Learning & Data Science  
+-  Business Intelligence and ERP (Odoo, Power BI)  
+-  Full-Stack Development (Python, React, Kotlin)  
+-  Automation of business processes  
 
 Currently exploring:
-- 🤖 LLMs for small-scale predictions (Gemma, Phi)
-- 🧪 ML Model Tuning: Scikit-learn, model evaluation, cross-validation 
-- 🧩 Industrial ERP process customization (Odoo v17)  
+-  LLMs for small-scale predictions (Gemma, Phi)
+-  ML Model Tuning: Scikit-learn, model evaluation, cross-validation 
+-  Industrial ERP process customization (Odoo v17)  
 
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -35,29 +35,27 @@ Currently exploring:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 Python · JavaScript · SQL · Kotlin · XML · Oracle
 
-### 🌐 Web & App Development
+###  Web & App Development
 React · Django · PyQt5 · Kotlin (Jetpack) · HTML/CSS
 
-### 📊 Data & AI
+###  Data & AI
 Scikit-learn · TensorFlow · Keras · Pandas · CTGAN · SMOTE · Random Forest · LLMs
 
-### 🧾 ERP & BI
+###  ERP & BI
 Odoo (v16/v17 – Python, XML) · Power BI · Tableau · ETL · Data Warehousing
 
-### 🧪 Tools & Others
+###  Tools & Others
 Git · GitHub · VSCode · Postman · MySQL · MongoDB · Excel · Figma
 
 ---
 
 
----
-
-## 📬 Contact
+##  Contact
 
 - 📧 Email: ki_zerrouki@esi.dz  
 - 💼 [LinkedIn](https://linkedin.com/in/ikram-zerrouki)  
@@ -65,7 +63,7 @@ Git · GitHub · VSCode · Postman · MySQL · MongoDB · Excel · Figma
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikram-zerrouki&show_icons=true&theme=default" height="140"/>
