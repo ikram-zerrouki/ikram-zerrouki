@@ -95,11 +95,12 @@ I thrive at the intersection of **technical depth** and **business value** .
 
 ##  GitHub Stats
 
-
-
-![Ikram's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ikram-zerrouki&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikram-zerrouki&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikram-zerrouki&theme=github-dark-blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikram-zerrouki&layout=compact&theme=github_dark)
+
 
 
 <!--<p align="center">
