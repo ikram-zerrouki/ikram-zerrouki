@@ -88,7 +88,7 @@ I thrive at the intersection of **technical depth** and **business value** .
 ##  Contact
 
 - 📧 Email: ki_zerrouki@esi.dz  
-- 💼 [LinkedIn](https://linkedin.com/in/ikram-zerrouki)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ikram-zerrouki-385b12232/)  
 
 
 ---
